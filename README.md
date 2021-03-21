@@ -3,8 +3,11 @@ CREDENTIALのpathを通す必要あり↓
 
 export GOOGLE_APPLICATION_CREDENTIALS="[PATH]"
 
+
 例
 
 export GOOGLE_APPLICATION_CREDENTIALS="/home/user/Downloads/my-key.json"
+
+関連リンク
 
 https://cloud.google.com/speech-to-text/docs/libraries
